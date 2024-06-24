@@ -1,0 +1,102 @@
+.ejercicio13 header {
+    background-color: rgb(78, 214, 103);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ejercicio13 header img {
+    width: 100px;
+}
+.ejercicio13 header h1 {
+    color: rgb(87, 84, 84);
+}
+
+.ejercicio13 nav {
+    background-color: rgb(26, 165, 52);
+    padding: 1rem;
+    color: antiquewhite;
+    text-align: center;
+}
+.ejercicio13 nav ul a{
+    color: antiquewhite;
+    text-decoration: none;
+}
+.ejercicio13 nav ul a:hover {
+    background-color: rgb(4, 4, 4);
+    color: yellow;
+}
+.ejercicio13 section img {
+    height: 210.8px;
+}
+
+.ejercicio13 main {
+    margin-top: 20px;
+}
+.ejercicio13 main section {
+    display: flex;
+    flex-direction: column;
+}
+.ejercicio13 #articulo1 {
+    background-color: yellow;
+    border: solid 5px rgb(195, 195, 48);
+    padding: 20px;
+    border-radius: 50px 1px 50px 1px;
+    margin-bottom: 10px;
+    box-shadow: 0px 4px 8px gray;
+
+}
+.ejercicio13 #articulo1 img {
+    width: 50px;
+    height: auto;
+}
+.ejercicio13 #articulo2 {
+    background-color: rgb(0, 255, 225);
+    border: solid 5px rgb(48, 195, 183);
+    padding: 20px;
+    border-radius: 50px 1px 50px 1px;
+    margin-bottom: 10px;
+    box-shadow: 0px 4px 8px gray;
+
+}
+.ejercicio13 #articulo2 img {
+    width: 50px;
+    height: auto;
+}
+.ejercicio13 #articulo3 {
+    background-color: rgb(255, 42, 0);
+    border: solid 5px rgb(195, 48, 48);
+    padding: 20px;
+    border-radius: 50px 1px 50px 1px;
+    margin-bottom: 10px;
+    box-shadow: 0px 4px 8px gray;
+}
+.ejercicio13 #articulo3 img {
+    width: 50px;
+    height: auto;
+}
+
+.ejercicio13 footer {
+    background-color: gray;
+    margin-top: 50px;
+    border: solid 5px rgb(109, 108, 108);
+    padding: 20px;
+    box-shadow: 0px 4px 8px gray;
+}
+.ejercicio13 .hombre {
+    margin-bottom: 20px;
+}
+.ejercicio13 .rating {
+    display: inline;
+    margin: 20px;
+}
+.ejercicio13 input[type="radio"] {
+    display: none;
+}
+.ejercicio13 label {
+    font-size: 35px;
+    color: antiquewhite;
+    cursor: pointer;
+}
+.ejercicio13 input[type="radio"]:checked~label {
+    color: yellow;
+}

@@ -1,0 +1,190 @@
+.ejercicio15 header {
+    background-color: rgb(254, 152, 68);
+}
+.ejercicio15 .imgh1 {
+    display: flex;
+    padding: 10px;
+}
+.ejercicio15 header h1 {
+    padding: 14px;
+} 
+.ejercicio15 header img {
+    width: 60px;
+    height: 60px;
+}
+
+.ejercicio15 nav {
+    background-color: rgb(245, 98, 6);
+    width: 100%;
+}
+.ejercicio15 nav ul {
+    list-style: none;
+    color: antiquewhite;
+    display: flex;
+    padding: 10px;
+    display: flex;
+    
+}
+.ejercicio15 nav ul a {
+    text-decoration: none;
+    color: antiquewhite;
+    padding: 10px;
+}
+.ejercicio15 nav ul :hover {
+    border-bottom: solid rgb(239, 211, 211);
+}
+
+.ejercicio15 main {
+    width: 100%;
+    height: 200px;
+    background-color: antiquewhite;
+    display: flex;
+}
+.ejercicio15 main img {
+    height: 220px;
+    margin-left: 300px;
+    margin-top: -30px;
+}
+
+.ejercicio15 section {
+    width: 100%;
+    height: 250px;
+    background-color: rgb(123, 120, 120);
+}
+.ejercicio15 .container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.ejercicio15 .articulo1 {
+    height: 200px;
+    border-radius: 2px;
+    width: 280px;
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    text-align: center;
+    background-color: antiquewhite;
+}
+.ejercicio15 .articulo1:hover {
+    transform: translate(0px, -10px);
+    background-color: rgba(238, 123, 29, 0.679);
+    cursor: pointer;
+    box-shadow: 0px 5px  5px  rgb(239, 239, 239);
+}
+.ejercicio15 .articulo2 {
+    height: 200px;
+    border-radius: 2px;
+    width: 280px;
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    text-align: center;
+    background-color: antiquewhite;
+}
+.ejercicio15 .articulo2:hover {
+    transform: translate(0px, -10px);
+    background-color: rgba(238, 123, 29, 0.679);
+    cursor: pointer;
+    box-shadow: 0px 5px  5px  rgb(239, 239, 239);
+}
+.ejercicio15 .articulo3 {
+    height: 200px;
+    border-radius: 2px;
+    width: 280px;
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    text-align: center;
+    background-color: antiquewhite;
+}
+.ejercicio15 .articulo3:hover {
+    transform: translate(0px, -10px);
+    background-color: rgba(238, 123, 29, 0.679);
+    cursor: pointer;
+    box-shadow: 0px 5px  5px  rgb(239, 239, 239);
+}
+.ejercicio15 .articulo4 {
+    height: 200px;
+    border-radius: 2px;
+    width: 280px;
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    text-align: center;
+    background-color: antiquewhite;
+}
+.ejercicio15 .articulo4:hover {
+    transform: translate(0px, -10px);
+    background-color: rgba(238, 123, 29, 0.679);
+    cursor: pointer;
+    box-shadow: 0px 5px  5px  rgb(239, 239, 239);
+}
+.ejercicio15 .imgContainer {
+    transform: scale(.4);
+    margin-top: -70px;
+}
+.ejercicio15 .imgContainer4 {
+    transform: scale(.6);
+    margin-top: -30px;
+}
+.ejercicio15 .icon {
+    width: 30px;
+    margin: 0 auto;
+    padding-top: 5px;
+    height: 30px;
+}
+.ejercicio15 .pa {
+    margin-top: -70px;
+}
+.ejercicio15 .pa4 {
+    margin-top: -25px;
+}
+
+.ejercicio15 .redes ul{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+.ejercicio15 .redes ul li img {
+    width: 30px;
+}
+
+.ejercicio15 footer {
+    width: 100%;
+    height: 100px;
+    background-color: rgb(192, 192, 163);
+}
+.ejercicio15 .contenedor {
+    padding: 18px;
+    display: flex;
+    justify-content: space-around;
+}
+.ejercicio15 .footer1 {
+    font-size: x-small;
+    color: rgb(41, 40, 40);
+}
+.ejercicio15 .footer1 ul li {
+    list-style: none;
+    color: gray;
+}
+.ejercicio15 .footer2 {
+    font-size: x-small;
+    color: rgb(41, 40, 40);
+}
+.ejercicio15 .footer2 ul li {
+    list-style: none;
+    color: gray;
+}
+.ejercicio15 .footer3 {
+    font-size: x-small;
+    color: rgb(41, 40, 40);
+}
+.ejercicio15 .footer3 ul li {
+    list-style: none;
+    color: gray;
+}

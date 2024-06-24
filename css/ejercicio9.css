@@ -1,0 +1,20 @@
+.ejercicio9 header {
+    background-color: rgb(81, 75, 75);
+    color: orange;
+    padding: 30px;
+    font-size: 3em;
+    font-weight: bold;
+    margin-bottom: 50px;
+}
+
+.ejercicio9 section {
+background-color: #CCC;    
+}
+article {
+    display: flex;
+}
+.ejercicio9 img {
+    width: 120px;
+    border: dashed 1px #555;
+    margin: 10px;
+}

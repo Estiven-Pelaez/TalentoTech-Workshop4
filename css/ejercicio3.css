@@ -1,0 +1,23 @@
+.ejercicio3 header {
+    background-color: rgb(81, 75, 75);
+    color: orange;
+    padding: 30px;
+    font-size: 3em;
+    font-weight: bold;
+}
+
+.ejercicio3 nav {
+    display: flex;
+    justify-content: flex-end;
+    background-color: #999292;
+}
+
+nav a {
+    color: orange;
+    text-decoration: none;
+    padding: 15px;
+}
+nav a:hover {
+    color: black;
+    background-color: orange;
+}
